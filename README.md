@@ -5,9 +5,5 @@ I,m Antoan from Bulgaria, passionate about technology and coding. Currently, I w
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoansarafski&show_icons=true&theme=transparent)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=antoansarafski" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antoansarafski&layout=compact&langs_count=8&card_width=320" />
-</a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/antoansarafski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antoan-sarafski-a48829127//)  
+
