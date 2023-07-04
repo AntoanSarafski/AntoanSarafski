@@ -3,6 +3,6 @@ I,m Antoan from Bulgaria, passionate about technology and coding. Currently, I w
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoansarafski&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoansarafski&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoansarafski&hide=contribs,prs&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoansarafski&show_icons=true&theme=radical)
