@@ -5,5 +5,7 @@ I,m **Antoan** from Bulgaria, passionate about technology and coding. Currently,
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoansarafski&show_icons=true&theme=transparent)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=antoansarafski)](https://github.com/ryo-ma/github-profile-trophy)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/antoansarafski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antoan-sarafski-a48829127//)  
 
