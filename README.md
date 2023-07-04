@@ -7,5 +7,8 @@ I,m **Antoan** from Bulgaria, passionate about technology and coding. Currently,
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=antoansarafski)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=antoansarafski)  
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/antoansarafski)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/antoan-sarafski-a48829127//)  
 
