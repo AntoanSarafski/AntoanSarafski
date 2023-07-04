@@ -5,3 +5,4 @@ I,m Antoan from Bulgaria, passionate about technology and coding. Currently, I w
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoansarafski&hide=contribs,prs)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoansarafski&show_icons=true&theme=radical)
