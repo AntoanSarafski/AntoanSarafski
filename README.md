@@ -1,5 +1,5 @@
 # Antoan Sarafski
-I,m Antoan from Bulgaria, passionate about technology and coding. I really enjoy learning languages and frameworks. 
+I,m Antoan from Bulgaria, passionate about technology and coding. I really enjoy learning new languages and frameworks. 
 
 ## Skills and Exeprience
 * 👨🏻‍💻 C#
