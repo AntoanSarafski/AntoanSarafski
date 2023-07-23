@@ -2,8 +2,9 @@
 I,m Antoan from Bulgaria, passionate about technology and coding. I really enjoy learning new languages and frameworks. 
 
 ## Skills and Exeprience
-* 👨🏻‍💻 C#
-* 💻 HTML, CSS, JS
+* 👨🏻‍💻 CSharp
+* 👨🏻‍💻 JavaScript
+* 💻 HTML&CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=antoansarafski&theme=transparent)  
 
