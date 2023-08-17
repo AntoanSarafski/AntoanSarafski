@@ -2,7 +2,7 @@
 I,m Antoan from Bulgaria, passionate about technology and coding. I really enjoy learning new languages and frameworks. 
 
 ## Skills and Exeprience
-* 👨🏻‍💻 CSharp
+* 👨🏻‍💻 C#
 * 👨🏻‍💻 JavaScript
 * 💻 HTML&CSS
 
