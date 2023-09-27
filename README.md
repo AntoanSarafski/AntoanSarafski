@@ -4,8 +4,8 @@ I,m Antoan from Bulgaria, passionate about technology and coding. I really enjoy
 ## Skills and Exeprience
 * 👨🏻‍💻 C#
 * 👨🏻‍💻 JavaScript
-* 💻 HTML&CSS
-* <i class="fa-solid fa-database"></i> MSSQL
+* 👨🏻‍💻 HTML&CSS
+* 👨🏻‍💻 MSSQL
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=antoansarafski&theme=transparent)  
 
